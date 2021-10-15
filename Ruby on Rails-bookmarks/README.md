@@ -591,3 +591,9 @@ Binary:
 See also:
 
 - [Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
+
+## Contributors :
+1. Shrejal Singh
+2. Ruthvik
+3. Aaquib Ali
+4. Ekta Arora
